@@ -418,6 +418,7 @@
     "numero_de_pista": "1/1",
     "Año": "2004"
   },
+
   {
     "archivo_musica": "Albums/198274385_1.flac",
     "descripcion": "198274385",
@@ -560,5 +561,27 @@
     "album": "Under The Iron Sea",
     "numero_de_pista": "13/13",
     "Año": "2006"
+  },
+  {
+    "archivo_musica": "Albums/198274387_1.flac",
+    "descripcion": "198274387",
+    "imagen": "Albums/198274387.jpg",
+    "genero": "Rock/General",
+    "titulo": "Love Actually (Edit)",
+    "artista": "Keane",
+    "album": "Love Actually",
+    "numero_de_pista": "1/2",
+    "Año": "2023"
+  },
+  {
+    "archivo_musica": "Albums/198274387_2.flac",
+    "descripcion": "198274387",
+    "imagen": "Albums/198274387.jpg",
+    "genero": "Rock/General",
+    "titulo": "Love Actually",
+    "artista": "Keane",
+    "album": "Love Actually",
+    "numero_de_pista": "2/2",
+    "Año": "2023"
   }
 ]
