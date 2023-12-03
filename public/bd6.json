@@ -583,5 +583,49 @@
     "album": "Love Actually",
     "numero_de_pista": "2/2",
     "Año": "2023"
+  },
+  {
+    "archivo_musica": "Albums/198274388_1.flac",
+    "descripcion": "198274388",
+    "imagen": "Albums/198274388.jpg",
+    "genero": "Pop/General",
+    "titulo": "Dirt",
+    "artista": "Keane",
+    "album": "Dirt",
+    "numero_de_pista": "1/4",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274388_2.flac",
+    "descripcion": "198274388",
+    "imagen": "Albums/198274388.jpg",
+    "genero": "Pop/General",
+    "titulo": "Nothing To Something",
+    "artista": "Keane",
+    "album": "Dirt",
+    "numero_de_pista": "2/4",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274388_3.flac",
+    "descripcion": "198274388",
+    "imagen": "Albums/198274388.jpg",
+    "genero": "Pop/General",
+    "titulo": "Burning The Days (Demo)",
+    "artista": "Keane",
+    "album": "Dirt",
+    "numero_de_pista": "3/4",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274388_4.flac",
+    "descripcion": "198274388",
+    "imagen": "Albums/198274388.jpg",
+    "genero": "Pop/General",
+    "titulo": "November Day (Demo)",
+    "artista": "Keane",
+    "album": "Dirt",
+    "numero_de_pista": "4/4",
+    "Año": "2021"
   }
 ]
