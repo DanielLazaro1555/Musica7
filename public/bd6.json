@@ -936,5 +936,115 @@
     "album": "The Wolf You Feed",
     "numero_de_pista": "10",
     "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274390_1.flac",
+    "descripcion": "198274390",
+    "imagen": "Albums/198274390.jpg",
+    "genero": "Rock",
+    "titulo": "What I Like About You",
+    "artista": "The Romantics",
+    "album": "Super Hits",
+    "numero_de_pista": "1/10",
+    "Año": "1979"
+  },
+  {
+    "archivo_musica": "Albums/198274390_2.flac",
+    "descripcion": "198274390",
+    "imagen": "Albums/198274390.jpg",
+    "genero": "Rock",
+    "titulo": "Talking In Your Sleep",
+    "artista": "The Romantics",
+    "album": "Super Hits",
+    "numero_de_pista": "2/10",
+    "Año": "1983"
+  },
+  {
+    "archivo_musica": "Albums/198274390_3.flac",
+    "descripcion": "198274390",
+    "imagen": "Albums/198274390.jpg",
+    "genero": "Rock",
+    "titulo": "One in a Million",
+    "artista": "The Romantics",
+    "album": "Super Hits",
+    "numero_de_pista": "3/10",
+    "Año": "1983"
+  },
+  {
+    "archivo_musica": "Albums/198274390_4.flac",
+    "descripcion": "198274390",
+    "imagen": "Albums/198274390.jpg",
+    "genero": "Rock",
+    "titulo": "Do Me Anyway You Wanna",
+    "artista": "The Romantics",
+    "album": "Super Hits",
+    "numero_de_pista": "4/10",
+    "Año": "1997"
+  },
+  {
+    "archivo_musica": "Albums/198274390_5.flac",
+    "descripcion": "198274390",
+    "imagen": "Albums/198274390.jpg",
+    "genero": "Pop",
+    "titulo": "Tomboy",
+    "artista": "The Romantics",
+    "album": "Super Hits",
+    "numero_de_pista": "5/10",
+    "Año": "1979"
+  },
+  {
+    "archivo_musica": "Albums/198274390_6.flac",
+    "descripcion": "198274390",
+    "imagen": "Albums/198274390.jpg",
+    "genero": "Rock",
+    "titulo": "When I Look In Your Eyes",
+    "artista": "The Romantics",
+    "album": "Super Hits",
+    "numero_de_pista": "6/10",
+    "Año": "1997"
+  },
+  {
+    "archivo_musica": "Albums/198274390_7.flac",
+    "descripcion": "198274390",
+    "imagen": "Albums/198274390.jpg",
+    "genero": "Rock",
+    "titulo": "Tell It to Carrie",
+    "artista": "The Romantics",
+    "album": "Super Hits",
+    "numero_de_pista": "7/10",
+    "Año": "1997"
+  },
+  {
+    "archivo_musica": "Albums/198274390_8.flac",
+    "descripcion": "198274390",
+    "imagen": "Albums/198274390.jpg",
+    "genero": "Rock",
+    "titulo": "Girl Next Door",
+    "artista": "The Romantics",
+    "album": "Super Hits",
+    "numero_de_pista": "8/10",
+    "Año": "1997"
+  },
+  {
+    "archivo_musica": "Albums/198274390_9.flac",
+    "descripcion": "198274390",
+    "imagen": "Albums/198274390.jpg",
+    "genero": "Pop",
+    "titulo": "21 and Over",
+    "artista": "The Romantics",
+    "album": "Super Hits",
+    "numero_de_pista": "9/10",
+    "Año": "1980"
+  },
+  {
+    "archivo_musica": "Albums/198274390_10.flac",
+    "descripcion": "198274390",
+    "imagen": "Albums/198274390.jpg",
+    "genero": "Pop",
+    "titulo": "Mystified",
+    "artista": "The Romantics",
+    "album": "Super Hits",
+    "numero_de_pista": "10/10",
+    "Año": "1997"
   }
 ]
