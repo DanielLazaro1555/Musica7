@@ -421,7 +421,7 @@
   {
     "archivo_musica": "Albums/198274384_1.flac",
     "descripcion": "198274384",
-    "imagen": "Albums/198274384.jpg",
+    "imagen": "Albums/198274384.png",
     "genero": "Pop",
     "titulo": "The Way You Want It",
     "artista": "Keane",
@@ -825,5 +825,116 @@
     "album": "Dirt",
     "numero_de_pista": "4/4",
     "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274389_1.flac",
+    "descripcion": "198274389",
+    "imagen": "Albums/198274389.jpg",
+    "genero": "Rock",
+    "titulo": "Good Veins",
+    "artista": "Riverboat Gamblers",
+    "album": "The Wolf You Feed",
+    "numero_de_pista": "1",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274389_2.flac",
+    "descripcion": "198274389",
+    "imagen": "Albums/198274389.jpg",
+    "genero": "Rock",
+    "titulo": "Bite My Tongue",
+    "artista": "Riverboat Gamblers",
+    "album": "The Wolf You Feed",
+    "numero_de_pista": "2",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274389_3.flac",
+    "descripcion": "198274389",
+    "imagen": "Albums/198274389.jpg",
+    "genero": "Rock",
+    "titulo": "Comedians",
+    "artista": "Riverboat Gamblers",
+    "album": "The Wolf You Feed",
+    "numero_de_pista": "3",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274389_4.flac",
+    "descripcion": "198274389",
+    "imagen": "Albums/198274389.jpg",
+    "genero": "Rock",
+    "titulo": "Soliloquy",
+    "artista": "Riverboat Gamblers",
+    "album": "The Wolf You Feed",
+    "numero_de_pista": "4",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274389_5.flac",
+    "descripcion": "198274389",
+    "imagen": "Albums/198274389.jpg",
+    "genero": "Rock",
+    "titulo": "Gallows Bird",
+    "artista": "Riverboat Gamblers",
+    "album": "The Wolf You Feed",
+    "numero_de_pista": "5",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274389_6.flac",
+    "descripcion": "198274389",
+    "imagen": "Albums/198274389.jpg",
+    "genero": "Rock",
+    "titulo": "Blue Ghosts",
+    "artista": "Riverboat Gamblers",
+    "album": "The Wolf You Feed",
+    "numero_de_pista": "6",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274389_7.flac",
+    "descripcion": "198274389",
+    "imagen": "Albums/198274389.jpg",
+    "genero": "Rock",
+    "titulo": "Heart Conditions",
+    "artista": "Riverboat Gamblers",
+    "album": "The Wolf You Feed",
+    "numero_de_pista": "7",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274389_8.flac",
+    "descripcion": "198274389",
+    "imagen": "Albums/198274389.jpg",
+    "genero": "Rock",
+    "titulo": "Loser Neck",
+    "artista": "Riverboat Gamblers",
+    "album": "The Wolf You Feed",
+    "numero_de_pista": "8",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274389_9.flac",
+    "descripcion": "198274389",
+    "imagen": "Albums/198274389.jpg",
+    "genero": "Rock",
+    "titulo": "Dead Eyes",
+    "artista": "Riverboat Gamblers",
+    "album": "The Wolf You Feed",
+    "numero_de_pista": "9",
+    "Año": "2012"
+  },
+
+  {
+    "archivo_musica": "Albums/198274389_10.flac",
+    "descripcion": "198274389",
+    "imagen": "Albums/198274389.jpg",
+    "genero": "Rock",
+    "titulo": "Eviction Notice",
+    "artista": "Riverboat Gamblers",
+    "album": "The Wolf You Feed",
+    "numero_de_pista": "10",
+    "Año": "2012"
   }
 ]
